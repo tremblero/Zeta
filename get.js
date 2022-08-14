@@ -1,1 +1,1 @@
-return "a"
+console.log('Hello World!')
